@@ -5,9 +5,12 @@ main:
 
   - title: "Projects"
     url: /projects/
+    
+  - title: "Awards"
+    url: /awards/
         
   - title: "Blog Posts"
-    url: /writings/
+    url: /posts/
     
-  - title: "About me"
+  - title: "Contact"
     url: /contact/
