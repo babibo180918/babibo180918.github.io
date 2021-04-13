@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nhan D.T. Nguyen (Nguyễn Đức Thành Nhân)"
+title                    : "Nhan Nguyen (Nguyễn Đức Thành Nhân)"
 title_separator          : "-"
 name                     : &name "Nhan Nguyen"
 description              : &description "personal description"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,15 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      #share: true
+      #comment: true
   # _talks
   - scope:
       path: ""

@@ -12,4 +12,4 @@ Grants
 Awards
 ------
 *	**Annual scholarship** for outstanding student, Ho Chi Minh city University of Technology, 2006 ~ 2009
-*	**Honorific prize** at Vietnam National Mathematical Olympiad, 2005
+*	**Consolation prize** at Vietnam National Mathematical Olympiad, 2005

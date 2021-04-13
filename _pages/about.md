@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nhan D.T. Nguyen (Nguyễn Đức Thành Nhân)"
+title: "Nhan Nguyen (Nguyễn Đức Thành Nhân)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
