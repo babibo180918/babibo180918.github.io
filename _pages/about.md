@@ -13,4 +13,4 @@ I am currently a PhD student (from June 2021) at [Ear-EEG center](https://ece.au
   I received the B.Eng degree from the Ho Chi Minh City University of Technology (Vietnam) and M.Eng degree from Kyung Hee University (South Korea) in 2010 and 2012, respectively.
   From 2012 to 2020, I have gained professional experience in industry by working on various projects: video, audio fingerprints, audio signal processing solution for Samsung smartphones.
   
-My research interests are signal processing, machine learning/deep learning and joint audio-bio signal analysis. You can find my CV [here](/files/CV_NhanNguyen_lateset.pdf).
+My research interests are signal processing, machine learning/deep learning and joint audio-bio signal analysis. You can find my CV [here](/files/CV_NhanNguyen_latest.pdf).
