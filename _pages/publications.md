@@ -9,6 +9,16 @@ author_profile: true
   You can also find my articles on my [Google Scholar profile]({{site.author.googlescholar}})
 {% endif %}
 
+2024
+------
+**Nhan D. T. Nguyen**, H. Phan, S. Geirnaert, K. Mikkelsen and P. Kidmose, ___AADNet: An End-to-End Deep Learning Model for Auditory Attention Decoding, submitted to *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, Sep. 2024 (in review) [[preprint]](https://arxiv.org/abs/2410.13059)
+
+**Nhan D. T. Nguyen**, H. Phan, K. Mikkelsen and P. Kidmose, ___Single-word Auditory Attention Decoding Using Deep Learning Model, [[preprint]]()
+
+2023
+------
+**Nhan D. T. Nguyen**, K. Mikkelsen and P. Kidmose, ___Cognitive Component of Auditory Attention to Natural Speech Events, submitted to *Frontiers Human Neuroscience*, July. 2024 (in review) [[preprint]](https://arxiv.org/abs/2312.10543)
+
 2012
 ------
 

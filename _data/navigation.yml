@@ -9,8 +9,8 @@ main:
   - title: "Awards"
     url: /awards/
         
-  - title: "Blog Posts"
-    url: /posts/
+#  - title: "Blog Posts"
+#    url: /posts/
     
   - title: "Contact"
     url: /contact/
